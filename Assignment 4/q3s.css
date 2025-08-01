@@ -4,3 +4,20 @@
     text-decoration: underline;
     font-weight: bold;
 }
+.name {
+    font-style: italic;
+    font-size:small;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.para1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    
+}
+button {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 12%;
+    height: 30px;
+}

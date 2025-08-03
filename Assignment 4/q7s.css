@@ -1,0 +1,18 @@
+nav {
+  background-color: #273647; 
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 40px;
+  font-size: 20px;
+  font-family: Arial, sans-serif;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: rgba(220, 220, 8, 0.81);
+}
